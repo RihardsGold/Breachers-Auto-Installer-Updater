@@ -21,5 +21,5 @@ PCVR & Spectator tool:
 [Common problems & troubleshoots](https://github.com/RihardsGold/Breachers-Auto-Installer-Updater/wiki/Common-problems-&-troubleshoots)
 ### What this wiki guide doesn't cover
 1. Troubleshooting Virtual Desktop problems
-2. PCVR in game stuttering for Oculus users. (If I figure out the cause, I'll add the fix)
+2. PCVR in game stuttering for Oculus users. (If I figure out the cause, I'll add the fix) SteamVR fix [here](https://github.com/RihardsGold/Breachers-Auto-Installer-Updater/wiki/Common-problems-&-troubleshoots#fix-breachers-stuttering-with-steamvr)
 3. `Attachment of code signature supplement failed: 1` ADB error on a Mac
